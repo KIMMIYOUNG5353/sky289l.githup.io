@@ -191,17 +191,17 @@ body {
 		<div class="slide_wrap">
 			<div id="autoplay" style="display:none;">
 				<!-- //이미지 추가 -->
-				<img src="images/1.jpg" class="img100" />
-				<img src="images/2.jpg" class="img100" />
-				<img src="images/3.jpg" class="img100" />
-				<img src="images/4.jpg" class="img100" />
-				<img src="images/5.jpg" class="img100" />
-				<img src="images/6.jpg" class="img100" />
-				<img src="images/7.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35759944-3638c3b6-08c0-11e8-9386-b6307eec3063.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35759945-3660a64c-08c0-11e8-833a-984edfdd123c.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35759946-36860158-08c0-11e8-83ff-5eafe0ff68df.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35759947-36aa65e8-08c0-11e8-9926-40dca9d31400.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35759948-36d0dbb0-08c0-11e8-9449-7ed0fed68d57.jpg" class="img100" />
+				<img src="https://user-images.githubusercontent.com/36090272/35759949-36f86432-08c0-11e8-92c9-cc19230c9676.jpg" class="img100" />
+				<img src="user-images.githubusercontent.com/36090272/35759951-371cf8b0-08c0-11e8-907d-faee3ddd7140.jpg" class="img100" />
 			</div>
 		</div>
 		<div class="content_wrap">
-			<h1><img src="images/1.png" alt="icon finder free icon" />СПбГУ 대한민국 총동문회 창립 총회<img src="images/1.png" alt="icon finder free icon" /></h1>
+			<h1><img src="https://user-images.githubusercontent.com/36090272/35759952-37437224-08c0-11e8-9d77-e763c5e791cc.png" alt="icon finder free icon" />СПбГУ 대한민국 총동문회 창립 총회<img src="https://user-images.githubusercontent.com/36090272/35759952-37437224-08c0-11e8-9d77-e763c5e791cc.png" alt="icon finder free icon" /></h1>
 			친애하는 СПбГУ 동문여러분! <br />
 			이번에 공식 출범하는 СПбГУ 대한민국 총동문회장을 맡은 박종수입니다<br />
 			СПбГУ 졸업생들의 커뮤니케이션 및 모교와 개인의 발전을 위해 출범하는 СПбГУ 총동문회 총회에 <br />
